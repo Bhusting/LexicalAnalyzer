@@ -11,3 +11,8 @@ WRITE is a seperate token.
 
 test01.txt is run through the lexical analyzer. The output is put in test02.txt. 
 The analyzer puts the tokens in testExtra.txt
+
+To run;
+  Enter "go build go-hunter-power.go" in the terminal.
+  Then enter "go run go-hunter-power.exe test01.txt" in the terminal.
+  
