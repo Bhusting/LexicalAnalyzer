@@ -8,3 +8,6 @@ The symbol # denotes an integer variable.
 The symbol % denotes a float variable.
 The combination of symbols <= denotes assignment.
 WRITE is a seperate token.
+
+test01.txt is run through the lexical analyzer. The output is put in test02.txt. 
+The analyzer puts the tokens in testExtra.txt
