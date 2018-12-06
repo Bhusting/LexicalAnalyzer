@@ -1,0 +1,162 @@
+Token 1
+	Lexeme: x
+	Type: string
+	Value: hi
+	Token: ID
+
+Token 2
+	Lexeme: <=
+	Type: 
+	Value: 
+	Token: Assign
+
+Token 3
+	Lexeme: hi
+	Type: string
+	Value: hi
+	Token: STRING
+
+Token 4
+	Lexeme: :
+	Type: 
+	Value: 
+	Token: COLON
+
+Token 5
+	Lexeme: d
+	Type: int
+	Value: 12
+	Token: ID
+
+Token 6
+	Lexeme: <=
+	Type: 
+	Value: 
+	Token: Assign
+
+Token 7
+	Lexeme: 12
+	Type: int
+	Value: 12
+	Token: INT_CONST
+
+Token 8
+	Lexeme: :
+	Type: 
+	Value: 
+	Token: COLON
+
+Token 9
+	Lexeme: r
+	Type: real
+	Value: 3.44
+	Token: ID
+
+Token 10
+	Lexeme: <=
+	Type: 
+	Value: 
+	Token: Assign
+
+Token 11
+	Lexeme: 3.44
+	Type: real
+	Value: 3.44
+	Token: REAL_CONST
+
+Token 12
+	Lexeme: :
+	Type: 
+	Value: 
+	Token: COLON
+
+Token 13
+	Lexeme: k
+	Type: real
+	Value: (#d+#d)^1.4
+	Token: ID
+
+Token 14
+	Lexeme: <=
+	Type: 
+	Value: 
+	Token: Assign
+
+Token 15
+	Lexeme: (
+	Type: 
+	Value: 
+	Token: LPAREN
+
+Token 16
+	Lexeme: d
+	Type: int
+	Value: 
+	Token: ID
+
+Token 17
+	Lexeme: +
+	Type: 
+	Value: 
+	Token: PLUS
+
+Token 18
+	Lexeme: d
+	Type: int
+	Value: 
+	Token: ID
+
+Token 19
+	Lexeme: )
+	Type: 
+	Value: 
+	Token: RPAREN
+
+Token 20
+	Lexeme: ^
+	Type: 
+	Value: 
+	Token: POWER
+
+Token 21
+	Lexeme: 1.4
+	Type: real
+	Value: 1.4
+	Token: REAL_CONST
+
+Token 22
+	Lexeme: :
+	Type: 
+	Value: 
+	Token: COLON
+
+Token 23
+	Lexeme: WRITE
+	Type: 
+	Value: 
+	Token: WRITE
+
+Token 24
+	Lexeme: this is the program
+	Type: string
+	Value: this is the program
+	Token: STRING
+
+Token 25
+	Lexeme: :
+	Type: 
+	Value: 
+	Token: COLON
+
+Token 26
+	Lexeme: WRITE
+	Type: 
+	Value: 
+	Token: WRITE
+
+Token 27
+	Lexeme: k
+	Type: real
+	Value: 
+	Token: ID
+
